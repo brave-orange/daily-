@@ -1,3 +1,4 @@
+/*蛇形输出数字*/
 #include<stdio.h>
 #include<stdlib.h>
 int main()
